@@ -1,0 +1,11 @@
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+  }
+
+  .title {
+    text-align:center;
+  }
